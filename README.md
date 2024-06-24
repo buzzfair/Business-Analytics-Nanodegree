@@ -7,7 +7,7 @@ In this program, my objective is to master data fundamentals applicable to any i
 
 In this project, I explored an interactive data dashboard about Top Skills reported on LinkedIn to uncover insights. Then I created a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
 
-- [Link to Project](https://github.com/buzzfair/Business-Analytics-Nanodegree/blob/main/Project%20%231%20-%20Udacity%20ONETEN%20%5BBAND%5D%20-%20by%20Guin%20White%20.pdf)
+- [Link to Project](https://github.com/buzzfair/Business-Analytics-Nanodegree/blob/8f5c5a3b64d726d556b98cfb0f26dc7fac7293ba/Project%201/Project%20%231%20-%20Udacity%20ONETEN%20%5BBAND%5D%20-%20by%20Guin%20White%20.pdf)
 - [Data Used](https://github.com/buzzfair/Business-Analytics-Nanodegree/blob/main/linkedin-top-skills-2016-makeovermonday.twbx)
 
 ## Part 2: Introduction to Data
